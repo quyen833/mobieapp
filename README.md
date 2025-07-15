@@ -1,2 +1,0 @@
-# mobieapp
-mobile application
